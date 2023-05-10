@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dani</h1>
-<h3 align="center">Junior Web Developer on a Mission to Build Engaging Web Experiences: Follow My Coding Journey on GitHub</h3>
+<h3 align="center">Web Developer on a Mission to Build Engaging Web Experiences: Follow My Coding Journey on GitHub</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
